@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aman7217/LeetCode-submit/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/aman7217/LeetCode-submit/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0648-replace-words](https://github.com/aman7217/LeetCode-submit/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/aman7217/LeetCode-submit/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/aman7217/LeetCode-submit/tree/master/0037-sudoku-solver) |
+| [0648-replace-words](https://github.com/aman7217/LeetCode-submit/tree/master/0648-replace-words) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/aman7217/LeetCode-submit/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/aman7217/LeetCode-submit/tree/master/0115-distinct-subsequences) |
+| [0648-replace-words](https://github.com/aman7217/LeetCode-submit/tree/master/0648-replace-words) |
 | [1021-remove-outermost-parentheses](https://github.com/aman7217/LeetCode-submit/tree/master/1021-remove-outermost-parentheses) |
 ## Sorting
 |  |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0045-jump-game-ii) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/aman7217/LeetCode-submit/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
