@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aman7217/LeetCode-submit/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aman7217/LeetCode-submit/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/aman7217/LeetCode-submit/tree/master/0342-power-of-four) |
+| [0400-nth-digit](https://github.com/aman7217/LeetCode-submit/tree/master/0400-nth-digit) |
 ## Recursion
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/aman7217/LeetCode-submit/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/aman7217/LeetCode-submit/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0400-nth-digit](https://github.com/aman7217/LeetCode-submit/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/aman7217/LeetCode-submit/tree/master/0704-binary-search) |
 ## Database
 |  |
