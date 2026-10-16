@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aman7217/LeetCode-submit/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aman7217/LeetCode-submit/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/aman7217/LeetCode-submit/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/aman7217/LeetCode-submit/tree/master/0342-power-of-four) |
 | [0400-nth-digit](https://github.com/aman7217/LeetCode-submit/tree/master/0400-nth-digit) |
 ## Recursion
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aman7217/LeetCode-submit/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aman7217/LeetCode-submit/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aman7217/LeetCode-submit/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/aman7217/LeetCode-submit/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/aman7217/LeetCode-submit/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aman7217/LeetCode-submit/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/aman7217/LeetCode-submit/tree/master/0202-happy-number) |
 | [0648-replace-words](https://github.com/aman7217/LeetCode-submit/tree/master/0648-replace-words) |
 ## String
 |  |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/aman7217/LeetCode-submit/tree/master/0648-replace-words) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/aman7217/LeetCode-submit/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
