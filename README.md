@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aman7217/LeetCode-submit/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aman7217/LeetCode-submit/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/aman7217/LeetCode-submit/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/aman7217/LeetCode-submit/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aman7217/LeetCode-submit/tree/master/0027-remove-element) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aman7217/LeetCode-submit/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aman7217/LeetCode-submit/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aman7217/LeetCode-submit/tree/master/0035-search-insert-position) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aman7217/LeetCode-submit/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/aman7217/LeetCode-submit/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/aman7217/LeetCode-submit/tree/master/0704-binary-search) |
 ## Database
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aman7217/LeetCode-submit/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aman7217/LeetCode-submit/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/aman7217/LeetCode-submit/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0648-replace-words](https://github.com/aman7217/LeetCode-submit/tree/master/0648-replace-words) |
 ## String
 |  |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/aman7217/LeetCode-submit/tree/master/0018-4sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
