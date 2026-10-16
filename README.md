@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/aman7217/LeetCode-submit/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/aman7217/LeetCode-submit/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/aman7217/LeetCode-submit/tree/master/0182-duplicate-emails) |
+| [0196-delete-duplicate-emails](https://github.com/aman7217/LeetCode-submit/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/aman7217/LeetCode-submit/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/aman7217/LeetCode-submit/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/aman7217/LeetCode-submit/tree/master/0620-not-boring-movies) |
