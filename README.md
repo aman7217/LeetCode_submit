@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/aman7217/LeetCode-submit/tree/master/0377-combination-sum-iv) |
 | [0648-replace-words](https://github.com/aman7217/LeetCode-submit/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/aman7217/LeetCode-submit/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aman7217/LeetCode-submit/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/aman7217/LeetCode-submit/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0400-nth-digit](https://github.com/aman7217/LeetCode-submit/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/aman7217/LeetCode-submit/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aman7217/LeetCode-submit/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Database
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/aman7217/LeetCode-submit/tree/master/0018-4sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aman7217/LeetCode-submit/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
