@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aman7217/LeetCode-submit/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/aman7217/LeetCode-submit/tree/master/0044-wildcard-matching) |
 | [0342-power-of-four](https://github.com/aman7217/LeetCode-submit/tree/master/0342-power-of-four) |
 ## Array
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aman7217/LeetCode-submit/tree/master/0013-roman-to-integer) |
+| [0044-wildcard-matching](https://github.com/aman7217/LeetCode-submit/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/aman7217/LeetCode-submit/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/aman7217/LeetCode-submit/tree/master/0115-distinct-subsequences) |
 | [0551-student-attendance-record-i](https://github.com/aman7217/LeetCode-submit/tree/master/0551-student-attendance-record-i) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aman7217/LeetCode-submit/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/aman7217/LeetCode-submit/tree/master/0115-distinct-subsequences) |
 | [0300-longest-increasing-subsequence](https://github.com/aman7217/LeetCode-submit/tree/master/0300-longest-increasing-subsequence) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/aman7217/LeetCode-submit/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/aman7217/LeetCode-submit/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
